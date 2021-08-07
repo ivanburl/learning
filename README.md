@@ -1,5 +1,3 @@
 # Tuttorial
+
 I am learning how to use git!!!
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam condimentum ex sed metus semper, et vestibulum diam lobortis. Fusce sagittis purus sem, id ultrices metus sagittis feugiat. Curabitur arcu felis, congue malesuada massa vitae, laoreet sodales tortor. Aenean at enim imperdiet, vehicula est ut, vehicula leo. Nullam non sollicitudin ex. Mauris iaculis elit arcu, sit amet bibendum enim facilisis vel. Fusce lobortis elit ac imperdiet tempor. Morbi a congue dui. Praesent efficitur hendrerit viverra. Phasellus vel elit ut ante bibendum pretium quis sit amet felis. Mauris justo arcu, fringilla eget laoreet nec, varius quis est. Duis mauris nunc, eleifend molestie aliquet vel, rutrum vel justo. Vestibulum ornare placerat tortor, nec eleifend dolor feugiat a. Vestibulum volutpat, justo vel condimentum scelerisque, velit ante pellentesque tortor, ut tempus ex massa non dolor. Duis viverra commodo tortor id viverra. Fusce blandit, velit sit amet sollicitudin bibendum, tellus magna aliquam mi, ut mattis lorem ligula quis tortor. 
